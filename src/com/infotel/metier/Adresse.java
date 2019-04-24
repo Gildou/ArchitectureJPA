@@ -11,6 +11,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.persistence.PreRemove;
 
+//ma classe adresse
 @Entity
 
 public class Adresse {
